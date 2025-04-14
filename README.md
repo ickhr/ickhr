@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1> ✍ Programming languages	 </h1>
+<img src="https://skillicons.dev/icons?i=js,ts,go&theme=dark" />
 
-<!--
-**ickhr/ickhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> ✍ Frameworks </h1>
+<img src="https://skillicons.dev/icons?i=express,materialui,react&theme=dark" />
 
-Here are some ideas to get you started:
+<h1> ✍ Database </h1>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> ✍ Tools and softwares I use </h1>
+<img src="https://skillicons.dev/icons?i=nodejs,go,nginx,ubuntu,vercel,azure,docker,git&theme=dark" />
+
+<h1> :chart_with_upwards_trend: My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=ickhr&show_icons=true&theme=dark" />
+
+<h1> :gem: My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=ickhr&theme=onedark" />

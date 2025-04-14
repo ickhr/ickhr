@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=express,materialui,react&theme=dark" />
 
 <h1> ✍ Database </h1>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql&theme=dark" />
 
 <h1> ✍ Tools and softwares I use </h1>
 <img src="https://skillicons.dev/icons?i=nodejs,go,nginx,ubuntu,vercel,azure,docker,git&theme=dark" />

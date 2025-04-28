@@ -2,7 +2,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,go&theme=dark" />
 
 <h1> ✍ Frameworks </h1>
-<img src="https://skillicons.dev/icons?i=express,vite,react,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=express,vite,react,nextjs,materialui&theme=dark" />
 
 <h1> ✍ Database </h1>
 <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql,prisma&theme=dark" />

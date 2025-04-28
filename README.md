@@ -5,10 +5,10 @@
 <img src="https://skillicons.dev/icons?i=express,vite,react,materialui&theme=dark" />
 
 <h1> ✍ Database </h1>
-<img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql,prisma&theme=dark" />
 
 <h1> ✍ Tools and softwares I use </h1>
-<img src="https://skillicons.dev/icons?i=nodejs,go,nginx,ubuntu,vercel,azure,docker,git,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,go,nginx,ubuntu,vercel,azure,docker,git,postman,vscode,git&theme=dark" />
 
 <h1> :chart_with_upwards_trend: My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=ickhr&show_icons=true&theme=dark" />
